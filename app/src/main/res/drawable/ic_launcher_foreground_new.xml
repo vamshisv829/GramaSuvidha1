@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Village house -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L35,45 L35,70 L73,70 L73,45 Z"/>
+    
+    <!-- Roof -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M54,25 L30,45 L78,45 Z"/>
+    
+    <!-- Door -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M48,55 L48,70 L60,70 L60,55 Z"/>
+    
+    <!-- Window left -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M40,50 L40,57 L45,57 L45,50 Z"/>
+    
+    <!-- Window right -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M63,50 L63,57 L68,57 L68,50 Z"/>
+    
+    <!-- Progress bar background -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M30,78 L78,78 L78,82 L30,82 Z"/>
+    
+    <!-- Progress fill -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M30,78 L60,78 L60,82 L30,82 Z"/>
+</vector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF8F00</color>
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="status_color">#1565C0</color>
+    <string name="after">After</string>
+    <string name="app_name">Grama Suvidha</string>
+    <string name="before">Before</string>
+    <string name="describe_issue">Describe the issue…</string>
+    <string name="progress">Progress</string>
+    <string name="project_image">Project image</string>
+    <string name="rate_project">Rate this Project</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="toggle_language">ಕನ್ನಡ</string>
+    <string name="updates">Updates</string>
+    <style name="Theme.GramaSuvidha" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

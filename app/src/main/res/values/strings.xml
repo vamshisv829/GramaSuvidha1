@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama Suvidha</string>
+    <string name="progress">Progress</string>
+    <string name="before">Before</string>
+    <string name="after">After</string>
+    <string name="updates">Updates</string>
+    <string name="rate_project">Rate this Project</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="describe_issue">Describe the issue…</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="project_image">Project image</string>
+    <string name="toggle_language">ಕನ್ನಡ</string>
+</resources>

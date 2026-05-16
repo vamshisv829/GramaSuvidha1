@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="after">ನಂತರ</string>
+    <string name="app_name">ಗ್ರಾಮ ಸುವಿಧಾ</string>
+    <string name="before">ಮೊದಲು</string>
+    <string name="describe_issue">ಸಮಸ್ಯೆ ವಿವರಿಸಿ…</string>
+    <string name="progress">ಪ್ರಗತಿ</string>
+    <string name="project_image">ಯೋಜನೆ ಚಿತ್ರ</string>
+    <string name="rate_project">ಈ ಯೋಜನೆಯನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+    <string name="report_issue">ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ</string>
+    <string name="submit_feedback">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಿ</string>
+    <string name="toggle_language">English</string>
+    <string name="updates">ನವೀಕರಣಗಳು</string>
+</resources>

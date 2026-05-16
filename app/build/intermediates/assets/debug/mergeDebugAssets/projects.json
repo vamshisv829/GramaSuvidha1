@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Main Road Repair",
+      "title_kn": "ಮುಖ್ಯ ರಸ್ತೆ ದುರಸ್ತಿ",
+      "description": "Repair and widening of the main village road from temple to school.",
+      "description_kn": "ದೇವಸ್ಥಾನದಿಂದ ಶಾಲೆಯವರೆಗೆ ಮುಖ್ಯ ಗ್ರಾಮ ರಸ್ತೆಯ ದುರಸ್ತಿ ಮತ್ತು ಅಗಲೀಕರಣ.",
+      "budget": 50000,
+      "progress": 65,
+      "status": "In Progress",
+      "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+      "expected_completion": "2025-09-30",
+      "contractor": "Sri Rama Constructions",
+      "before_image": "https://loremflickr.com/400/200/road,construction",
+      "after_image": "https://loremflickr.com/400/200/highway,asphalt",
+      "updates": [
+        { "date": "2025-01-10", "note": "Foundation work completed." },
+        { "date": "2025-03-15", "note": "Tar laying 50% done." }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Borewell Installation",
+      "title_kn": "ಕೊಳವೆ ಬಾವಿ ಅಳವಡಿಕೆ",
+      "description": "Installation of a new borewell near the community center for drinking water.",
+      "description_kn": "ಕುಡಿಯುವ ನೀರಿಗಾಗಿ ಸಮುದಾಯ ಕೇಂದ್ರದ ಬಳಿ ಹೊಸ ಕೊಳವೆ ಬಾವಿ ಅಳವಡಿಕೆ.",
+      "budget": 150000,
+      "progress": 100,
+      "status": "Completed",
+      "status_kn": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+      "expected_completion": "2025-04-01",
+      "contractor": "Jal Shakti Drillers",
+      "before_image": "https://loremflickr.com/400/200/well,water",
+      "after_image": "https://loremflickr.com/400/200/borewell,pump",
+      "updates": [
+        { "date": "2025-02-20", "note": "Drilling completed at 200ft." },
+        { "date": "2025-03-28", "note": "Motor and pipeline installed." }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Community Hall Construction",
+      "title_kn": "ಸಮುದಾಯ ಭವನ ನಿರ್ಮಾಣ",
+      "description": "Construction of a new community hall with capacity for 200 people.",
+      "description_kn": "200 ಜನರ ಸಾಮರ್ಥ್ಯದ ಹೊಸ ಸಮುದಾಯ ಭವನ ನಿರ್ಮಾಣ.",
+      "budget": 1200000,
+      "progress": 30,
+      "status": "In Progress",
+      "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+      "expected_completion": "2025-12-31",
+      "contractor": "BuildWell Pvt Ltd",
+      "before_image": "https://loremflickr.com/400/200/building,construction",
+      "after_image": "https://loremflickr.com/400/200/hall,auditorium",
+      "updates": [
+        { "date": "2025-01-05", "note": "Foundation and plinth work done." }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pond Rejuvenation",
+      "title_kn": "ಕೆರೆ ಪುನರುಜ್ಜೀವನ",
+      "description": "Desilting and bund strengthening of the village pond.",
+      "description_kn": "ಗ್ರಾಮದ ಕೆರೆಯ ಹೂಳು ತೆಗೆಯುವಿಕೆ ಮತ್ತು ಏರಿ ಭದ್ರಪಡಿಸುವಿಕೆ.",
+      "budget": 300000,
+      "progress": 10,
+      "status": "Not Started",
+      "status_kn": "ಪ್ರಾರಂಭವಾಗಿಲ್ಲ",
+      "expected_completion": "2025-11-15",
+      "contractor": "Green Earth Works",
+      "before_image": "https://loremflickr.com/400/200/pond,dirty",
+      "after_image": "https://loremflickr.com/400/200/lake,blue",
+      "updates": []
+    },
+    {
+      "id": "5",
+      "title": "Solar Street Lights",
+      "title_kn": "ಸೌರ ಬೀದಿ ದೀಪಗಳು",
+      "description": "Installation of 20 solar-powered street lights across the village.",
+      "description_kn": "ಗ್ರಾಮದಾದ್ಯಂತ 20 ಸೌರ ಚಾಲಿತ ಬೀದಿ ದೀಪಗಳ ಅಳವಡಿಕೆ.",
+      "budget": 400000,
+      "progress": 80,
+      "status": "In Progress",
+      "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+      "expected_completion": "2025-07-31",
+      "contractor": "SunPower Solutions",
+      "before_image": "https://loremflickr.com/400/200/dark,street",
+      "after_image": "https://loremflickr.com/400/200/streetlight,illuminated",
+      "updates": [
+        { "date": "2025-04-01", "note": "16 out of 20 lights installed." }
+      ]
+    }
+  ]
+}
