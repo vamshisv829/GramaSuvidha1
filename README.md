@@ -91,16 +91,6 @@ Enable the following Firebase services:
 
 ---
 
-## 📸 Screenshots
-
-_Add your app screenshots here_
-
-| Home Screen | Project Details | Progress Tracking |
-|-------------|----------------|------------------|
-| Screenshot | Screenshot | Screenshot |
-
----
-
 ## 🎯 Project Goal
 
 The main goal of GramaSuvidha1 is to bridge the transparency gap in rural infrastructure by creating a digital platform where citizens can easily monitor development works happening in their villages.
